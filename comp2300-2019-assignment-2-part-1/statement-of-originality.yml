@@ -1,0 +1,17 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp2300/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+collaboration:
+  - name:
+    comment: >-
+
+# sign *your* name and uid here
+name: Jinming Dong
+uid: u6683369
